@@ -2792,6 +2792,8 @@
         <AsyncSequenceExecutorPoolSize>5</AsyncSequenceExecutorPoolSize>
         <MaxTotalConnections>20</MaxTotalConnections>
         <MaxTotalConnectionsPerRoute>20</MaxTotalConnectionsPerRoute>
+        <ConditionalAuthMaxTotalConnections>20</ConditionalAuthMaxTotalConnections>
+        <ConditionalAuthMaxTotalConnectionsPerRoute>20</ConditionalAuthMaxTotalConnectionsPerRoute>
 
         <!--Timeouts in milliseconds-->
         <!--Default configs for timeouts-->
